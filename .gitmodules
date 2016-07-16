@@ -1,0 +1,3 @@
+[submodule "modules/sales-backorder-service"]
+	path = modules/sales-backorder-service
+	url = https://github.com/Massiv-IO/sales-backorder-service
