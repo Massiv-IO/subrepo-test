@@ -1,3 +1,9 @@
 [submodule "modules/sales-backorder-service"]
 	path = modules/sales-backorder-service
 	url = https://github.com/Massiv-IO/sales-backorder-service
+[submodule "modules/sales-shipping-service"]
+	path = modules/sales-shipping-service
+	url = https://github.com/Massiv-IO/sales-shipping-service
+[submodule "modules/sales-order-service"]
+	path = modules/sales-order-service
+	url = https://github.com/Massiv-IO/sales-order-service
